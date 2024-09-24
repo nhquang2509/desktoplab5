@@ -1,0 +1,18 @@
+{
+  "sinhvien": [
+    {
+      "MSSV": "12421421",
+      "hoten": "Thái Duy Quý",
+      "tuoi": 21,
+      "diem": 8.5,
+      "tongiao": false
+    },
+    {
+      "MSSV": "2212445",
+      "hoten": "Nguyễn Hữu Quang",
+      "tuoi": 20,
+      "diem": 8.5,
+      "tongiao": true
+    }
+  ]
+}
